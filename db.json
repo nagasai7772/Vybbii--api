@@ -84,11 +84,20 @@
     },
     {
       "id": 11,
+      "title": "Ramana Aei",
+      "album": "Guntur Karam",
+      "artist": " Kanakavva, Mahesh Babu, Gongura (T)",
+      "audiourl": "https://github.com/nagasai7772/songs/raw/refs/heads/main/Ramana%20Aei.mp3",
+      "img":"https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/da/fd/f4/dafdf40e-e55a-098a-fc66-0532bc474b0c/cover.jpg/800x800cc.jpg"
+    }
+    ,
+    {
+      "id": 12,
       "title": "Hey Rangule",
       "album": "Amaran",
-      "artist": "G. V. Prakash, Ramya Behara,Anurag Kulkarni, Ramajogayya Sastry",
-      "audiourl": "https://github.com/nagasai7772/songs/raw/refs/heads/main/Hey%20Rangule.mp3",
-      "img":"https://cdn-images.dzcdn.net/images/cover/5d7103c98bbb4f648ac8eaf578d49e43/0x1900-000000-80-0-0.jpg"
+      "artist": " G. V. Prakash, Ramya Behara, Anurag Kulkarni, Ramajogayya Sastry",
+      "audiourl": "https://github.com/nagasai7772/Vybbii--api/raw/refs/heads/main/Hey%20Rangule.mp3",
+      "img":"https://www.shazam.com/mkimage/image/thumb/Music221/v4/5f/a2/83/5fa2836a-de6e-0ed9-d950-7e646633df9f/198846526515.jpg/1275x1275bb-60.webp"
     }
     
   ]
