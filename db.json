@@ -93,12 +93,120 @@
     ,
     {
       "id": 12,
-      "title": "Bham Bham Bole",
-      "album": "Indra",
-      "artist": " Hariharan, Shankar Mahadevan",
-      "audiourl": "https://raw.githubusercontent.com/nagasai2227/songs/refs/heads/main/%5BiSongs.info%5D%2001%20-%20Bham%20Bham%20Bole.mp3",
-      "img":"https://cinemachaat.com/wp-content/uploads/2011/04/indra-banner.jpg"
+      "title": "Yemi Cheyamanduve",
+      "album": "priyuralu pilichindi",
+      "artist": "Shankar Mahadevan",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/01%20-%20Yemi%20Cheyamanduve%20-%20SenSongsMp3.co.mp3",
+      "img":"https://i.ytimg.com/vi/uw6etHCmu4g/maxresdefault.jpg"
+    },
+      {
+      "id": 13,
+      "title": "Something Something",
+      "album": "Nuvvostanante Nenoddantana",
+      "artist": "Tippu",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/02%20-%20Something%20Something%20-%20SenSongsMp3.co.mp3",
+      "img":"https://jiotvimages.cdn.jio.com/imagespublic/49/13/29b6cadda89d54d78c21e5d20e47941a_1736324432945_l_medium.jpg"
+    },
+  
+      {
+      "id": 14,
+      "title": "Poolane Kunukeyamanttha",
+      "album": "I (Manoharudu)",
+      "artist": "Haricharan, Shreyaghoshal",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/04%20-%20Poolane%20Kunukeyamantaa.mp3",
+      "img":"https://wallpapers.oneindia.com/ph-1024x768/2014/09/i_141049513600.jpg"
+      },
+          {
+      "id": 15,
+      "title": "Thikka",
+      "album": "Thikka",
+      "artist": "Dhanush",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/1-Thikka-SenSongsMp3.Co.mp3",
+      "img":"https://m.media-amazon.com/images/M/MV5BMWY4NjUxMjAtY2VhNC00YzkwLTk5YjgtYWFkZjkzM2E5NDJkXkEyXkFqcGc@._V1_.jpg"
+    },
+       {
+      "id": 16,
+      "title": "Dirty Picture",
+      "album": "Thikka",
+      "artist": "Usha Uthup, Simha",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/3-Dirty%20Picture-SenSongsMp3.Co.mp3",
+      "img":"https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2016/04/20/Thikka.jpg?resize=640%2C380&quality=80&zoom=1"
+    },
+       {
+      "id": 17,
+      "title": "Aale Baale",
+      "album": "Teenmar",
+      "artist": "Hema Chandra, Shravana Bhargavi",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Aale%20Baale-SenSongsMp3.Co.mp3",
+      "img":"https://rukminim2.flixcart.com/image/850/1000/av-media/music/m/x/e/teenmaar-original-imad5huaqwe65dwk.jpeg?q=20&crop=false"
+    },
+       {
+      "id": 18,
+      "title": "Adharaku",
+      "album": "Athadu",
+      "artist": "Viswa",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Adharaku-SenSongsMp3.Co.mp3",
+      "img":"https://image-resizer-cloud-api.akamaized.net/image/93515315-3C1A-4758-8226-EB6A80F473F2/0-16x9.jpg?width=1920&updatedTime=2024-06-28T01:01:32Z&dt=Web"
+    },
+       {
+      "id": 19,
+      "title": "Andhamaina Bhamalu",
+      "album": "Manmadhudu",
+      "artist": "Devi Sri Prasad",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Andamaina%20Bhamalu-SenSongsMp3.Co.mp3",
+      "img":"https://naasongsweb.com/wp-content/uploads/2023/11/Manmadhudu.jpg"
+    },
+       {
+      "id": 20,
+      "title": "Badass",
+      "album": "Leo",
+      "artist": "Anirudh Ravichander",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Badass.mp3",
+      "img":"https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/20/67/f720671c-c971-4c3d-a20e-a0ee1fedfa9e/196871508544.jpg/600x600bf-60.jpg"
+    },
+       {
+      "id": 21,
+      "title": "Beast Mode",
+      "album": "Beast",
+      "artist": "Anirudh Ravichander",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Beast%20Mode-Masstamilan.in.mp3",
+      "img":"https://sund-images.sunnxt.com/137542/640x360_BeastMode_137542_703e8b1d-9765-495a-a4bb-6cda2c356a67.jpg"
+    },
+       {
+      "id": 22,
+      "title": "Bloody Mary",
+      "album": "Wednesday",
+      "artist": "Lady Laga",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Bloody%20Mary%20New%20Song%20Download%20Mp3(SongsZilla.Net).mp3",
+      "img":"https://i1.sndcdn.com/artworks-s0GljWv7Yx6yLmby-pEamyw-t500x500.jpg"
+    },{
+      "id": 23,
+      "title": "Bones",
+      "album": "Imagine Dragons",
+      "artist": "Imagine Dragons",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Bones(PaglaSongs).mp3",
+      "img":"https://wallpapercave.com/wp/wp11887606.jpg"
+    },{
+      "id": 24,
+      "title": "Broken Angel",
+      "album": "Arash feat",
+      "artist": "Arash",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Broken%20Angel_320(PagalWorld).mp3",
+      "img":"https://i.ytimg.com/vi/tmSSmwWyt9U/maxresdefault.jpg"
+    },{
+      "id": 25,
+      "title": "Bujji Thalli",
+      "album": "Thandel",
+      "artist": "Javed Ali",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Bujji%20Thalli.mp3",
+      "img":"https://images.filmibeat.com/img/2024/11/bujjithallid-1732329737.jpg"
     }
+    
+    
+    
+    
+    
+    
     
   ]
   
