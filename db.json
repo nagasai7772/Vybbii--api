@@ -93,11 +93,11 @@
     ,
     {
       "id": 12,
-      "title": "Hey Rangule",
-      "album": "Amaran",
-      "artist": " G. V. Prakash, Ramya Behara, Anurag Kulkarni, Ramajogayya Sastry",
-      "audiourl": "https://github.com/nagasai7772/Vybbii--api/raw/refs/heads/main/Hey%20Rangule.mp3",
-      "img":"https://www.shazam.com/mkimage/image/thumb/Music221/v4/5f/a2/83/5fa2836a-de6e-0ed9-d950-7e646633df9f/198846526515.jpg/1275x1275bb-60.webp"
+      "title": "Bham Bham Bole",
+      "album": "Indra",
+      "artist": " Hariharan, Shankar Mahadevan",
+      "audiourl": "https://raw.githubusercontent.com/nagasai2227/songs/refs/heads/main/%5BiSongs.info%5D%2001%20-%20Bham%20Bham%20Bole.mp3",
+      "img":"https://cinemachaat.com/wp-content/uploads/2011/04/indra-banner.jpg"
     }
     
   ]
