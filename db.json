@@ -200,7 +200,253 @@
       "artist": "Javed Ali",
       "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Bujji%20Thalli.mp3",
       "img":"https://images.filmibeat.com/img/2024/11/bujjithallid-1732329737.jpg"
+    },{
+      "id": 26,
+      "title": "Bulleya",
+      "album": "Ae Dil Hai Mushkil",
+      "artist": "Amit Mishra, Pritam Chakraborty, and Shilpa Rao",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Bulleya%20Ae%20Dil%20Hai%20Mushkil%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/x87BTxPJkCs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDAWensoFBqFelFg6toK2ooYFJVwQ"
+    },{
+      "id": 27,
+      "title": "Lehra Do",
+      "album": "83 Movie",
+      "artist": "Arijit Singh and Pritam Chakraborty",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/World%20Record%20175%2083%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/diT_XLLJiF8/maxresdefault.jpg"
+    },{
+      "id": 28,
+      "title": "Deva Deva",
+      "album": "Brahmastra",
+      "artist": "Pritam, Arijit Singh, Amitabh Bhattacharya and Jonita Gandhi",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Deva%20Deva%20Brahmastra%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/MQCQV3ccrjs/sddefault.jpg"
+    },{
+      "id": 29,
+      "title": "First Class",
+      "album": "Kalank",
+      "artist": "Arijit Singh, Neeti Mohan, and Pritam Chakraborty",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/First-Class-MassTamilan.io.mp3",
+      "img":"https://static.toiimg.com/thumb/msid-68521915,width-1280,resizemode-4/68521915.jpg"
+    },{
+      "id": 30,
+      "title": "Tu Hi Mera",
+      "album": "Jannat 2",
+      "artist": "Pritam Chakraborty and Shafqat Amanat Ali",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Tu%20Hi%20Mera%20Jannat%202%20Original%20Motion%20Picturetrack%20128%20Kbps.mp3",
+      "img":"https://static.toiimg.com/thumb/msid-68521915,width-1280,resizemode-4/68521915.jpg"
+    },{
+      "id": 31,
+      "title": "Kesariya",
+      "album": "Brahmāstra",
+      "artist": "Arijit Singh",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Kesariya%20Brahmastra%20128%20Kbps.mp3",
+      "img":"https://images.herzindagi.info/image/2022/Jul/alia-bhatt-ranbir-kapoor-kesariya-song.jpg"
+    },{
+      "id": 32,
+      "title": "Satranga",
+      "album": "Animal",
+      "artist": "Arijit Singh",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Satranga%20-%20Animal%20128%20Kbps.mp3",
+      "img":"https://m.timesofindia.com/photo/107177359/size-127380/107177359.jpg"
+    },{
+      "id": 33,
+      "title": "Tum Hi Ho",
+      "album": "Aashiqui 2",
+      "artist": "Arijit Singh",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Tum%20Hi%20Ho%20-%20Aashiqui%202%20128%20Kbps.mp3",
+      "img":"https://m.media-amazon.com/images/M/MV5BMmQ0YjViZDktYjUyYS00ZTE4LWIwZDAtNDEyNDM5ZjA1OTM2XkEyXkFqcGc@._V1_QL75_UX480_.jpg"
+    },{
+      "id": 34,
+      "title": "Sajni",
+      "album": "Laapataa Ladies",
+      "artist": "Arijit Singh",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Sajni%20-%20Laapataa%20Ladies%20128%20Kbps.mp3",
+      "img":"https://c.saavncdn.com/252/Laapataa-Ladies-Hindi-2024-20241104085935-500x500.jpg"
+    },{
+      "id": 35,
+      "title": "Heeriye",
+      "album": "Heeriye song",
+      "artist": "Arijit Singh",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Heeriye%20Arijit%20Singh%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/RLzC55ai0eo/maxresdefault.jpg"
+    },{
+      "id": 36,
+      "title": "Tere vaaste",
+      "album": "Zara Hatke Zara Bachke",
+      "artist": "Varun Jain, Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Heeriye%20Arijit%20Singh%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/9E9SAt7uJ_I/maxresdefault.jpg"
+    },{
+      "id": 37,
+      "title": "Tum se",
+      "album": "Teri Baaton Mein Aisa Uljha Jiya",
+      "artist": "Raghav Chaitanya, Sachin–Jigar, and Varun Jain",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Tum%20Se%20-%20Teri%20Baaton%20Mein%20Aisa%20Uljha%20Jiya%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/LpP4rtjACM8/maxresdefault.jpg"
+    },{
+      "id": 38,
+      "title": "Tum se",
+      "album": "Angrezi Medium",
+      "artist": "Sachin–Jigar and Taniska Sanghvi",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Ek%20Zindagi%20-%20Angrezi%20Medium%20192%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/05DrDxjMEbU/maxresdefault.jpg"
+    },{
+      "id": 39,
+      "title": "Apna Bana Le",
+      "album": "Bhediya",
+      "artist": " Amitabh Bhattacharya, Arijit Singh, and Sachin–Jigar",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Apna%20Bana%20Le%20-%20Bhediya%20%EF%BD%9C%20Varun%20Dhawan,%20Kriti%20Sanon%EF%BD%9C%20Sachin-Jigar,%20Arijit%20Singh,%20Amitabh%20Bhattacharya.mp3",
+      "img":"https://i.ytimg.com/vi/3pz_bHeZLkg/maxresdefault.jpg"
+    },{
+      "id": 40,
+      "title": "Jug Jug Jeeve",
+      "album": "Shiddat",
+      "artist": "Sachet Tandon, Parampara Tandon and Sachin-Jigar",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Jug%20Jug%20Jeeve%20Shiddat%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/LUOWAsEXmSU/maxresdefault.jpg"
+    },{
+      "id": 41,
+      "title": "Vellipomaakey",
+      "album": "Sahasam Swasaga Sagipo",
+      "artist": "Aparna Narayanan, Dinesh Kanagaratnam, and Sid Sriram",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Vellipomaake-SenSongsMp3.Com.mp3",
+      "img":"https://m.media-amazon.com/images/M/MV5BNmFhNzVlYzYtNzkzMC00NGFkLWIwYzAtNzg0NTkwOWJlMDgzXkEyXkFqcGc@._V1_.jpg"
+    },{
+      "id": 42,
+      "title": "Randali",
+      "album": "Robo 2.0",
+      "artist":  "Blaaze, Arjun Chandy, Nivas",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Randali%20-%20SenSongsMp3.Co.mp3",
+      "img":"https://c.saavncdn.com/301/2-0-Telugu-Original-Motion-Picture-Soundtrack-Telugu-2018-20241028194723-500x500.jpg"
+    },{
+      "id": 43,
+      "title": "Neelo Valapu",
+      "album": "Robo",
+      "artist":  "Shreya Ghoshal and Vijay Prakash",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Neelo%20Valapu%20-%20SenSongsmp3.Co.mp3",
+      "img":"https://c.saavncdn.com/463/Robot-Telugu-2010-500x500.jpg"
+    },{
+      "id": 44,
+      "title": "Sasivadane",
+      "album": "Iddaru",
+      "artist":  "Unnikrishnan, Bombay Jayashri",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/%5BiSongs.info%5D%2006%20-%20Sasivadane.mp3",
+      "img":"https://c.saavncdn.com/120/Iddaru-Telugu-1997-20221207160007-500x500.jpg"
+    },{
+      "id": 45,
+      "title": "The Hook Up Song",
+      "album": "Student of the Year 2",
+      "artist":  "Vishal & Shekhar, Neha Kakkar and Shekhar Ravjiani",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Hook%20Up%20Song%20-%20Lyrical%20%20Student%20Of%20The%20Year%202%20%20Tiger%20Shroff%20&%20Alia%20%20Vishal%20&%20Shekhar%20Neha%20Kakkar.mp3",
+      "img":"https://i.ytimg.com/vi/kdAOuXa33U8/maxresdefault.jpg"
+    },{
+      "id": 46,
+      "title": "LOVELY",
+      "album": "Happy New Year",
+      "artist":  "Dr Zeus, Kanika Kapoor, Ravindra Upadhyay, Miraya, Fateh",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Lovely%20-%20Happy%20New%20Year%20128%20Kbps.mp3",
+      "img":"https://pagalfree.com/images/128Lovely%20-%20Happy%20New%20Year%20128%20Kbps.jpg"
+    },{
+      "id": 47,
+      "title": "The Disco Song",
+      "album": "Student of the Year",
+      "artist":  "Vishal & Shekhar, Benny Dayal, Sunidhi Chauhan and Nazia Hassan",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/The%20Disco%20Song%20-%20Student%20Of%20The%20Year%20128%20Kbps.mp3",
+      "img":"https://c.saavncdn.com/130/The-Disco-Song-Hindi-2012-20200629122535-500x500.jpg"
+    },{
+      "id": 48,
+      "title": "O Saki Saki",
+      "album": "Batla House",
+      "artist":  "Neha Kakkar",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/O%20Saki%20Saki%20-%20Batla%20House%20128%20Kbps.mp3",
+      "img":"https://i1.sndcdn.com/artworks-000613535348-hdpete-t500x500.jpg"
+    },{
+      "id": 49,
+      "title": "Besharam Rang",
+      "album": "Pathaan",
+      "artist":  "Caralisa Monteiro, Shilpa Rao, and Vishal–Shekhar",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Besharam%20Rang%20-%20Pathaan%20128%20Kbps.mp3",
+      "img":"https://i1.sndcdn.com/artworks-TfqAT88ypW4ctnW4-Mynpmw-t500x500.jpg"
+    },{
+      "id": 50,
+      "title": "Tere Sang Yaara",
+      "album": "Rustom",
+      "artist":  "Atif Aslam",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Tere%20Sang%20Yaara%20-%20Full%20Audio%20%EF%BD%9C%20Rustom%20%EF%BD%9C%20Akshay%20Kumar%20&%20Ileana%20D'cruz%20%EF%BD%9C%20Arko%20%EF%BD%9C%20Atif%20Aslam%20%EF%BD%9C%20Manoj%20M.mp3",
+      "img":"https://i1.sndcdn.com/artworks-000171378530-ia8wqs-t500x500.jpg"
+    },{
+      "id": 51,
+      "title": "O Saathi",
+      "album": "Baaghi 2",
+      "artist":  "Atif Aslam and Manoj Bajpayee",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/O%20Saathi%20-%20Baaghi%202%20128%20Kbps.mp3",
+      "img":"https://i1.sndcdn.com/artworks-000342375300-yk4v24-t500x500.jpg"
+    },{
+      "id": 52,
+      "title": "Dil diyan gallan",
+      "album": "Tiger Zinda Hai",
+      "artist":  "Vishal-Shekhar, Atif Aslam, Irshad Kami",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Dil%20Diyan%20Gallan%20-%20Tiger%20Zinda%20Hai%20128%20Kbps.mp3",
+      "img":"https://i.ytimg.com/vi/H1tx9Gj72uw/sddefault.jpg"
+    },{
+      "id": 53,
+      "title": "Dekhte Dekhte",
+      "album": "Batti Gul Meter Chalu",
+      "artist":  "Atif Aslam",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Dekhte%20Dekhte%20-%20Batti%20Gul%20Meter%20Chalu%20128%20Kbps.mp3",
+      "img":"https://c.saavncdn.com/555/Dekhte-Dekhte-Rahat-Fateh-Ali-Khan-Version-From-Batti-Gul-Meter-Chalu--Hindi-2018-20180907113921-500x500.jpg"
+    },{
+      "id": 54,
+      "title": "Pehli Dafa",
+      "album": "Love song",
+      "artist":  "Atif Aslam",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Pehli%20Dafa%20Atif%20Aslam%20128%20Kbps.mp3",
+      "img":"https://c.saavncdn.com/866/Pehli-Dafa-Hindi-2017-500x500.jpg"
+    },{
+      "id": 55,
+      "title": "Hukum",
+      "album": "Jailer",
+      "artist":  "Anirudh Ravichander and Rajinikanth",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Hukum---Thalaivar-Alappara-MassTamilan.dev.mp3",
+      "img":"https://c.saavncdn.com/082/Hukum-From-Jailer-Telugu-2023-20230730055959-500x500.jpg"
+    },{
+      "id": 56,
+      "title": "Jolly O Gymkhana",
+      "album": "Beast",
+      "artist":  "Anirudh Ravichander and Vijay",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Jolly%20O%20Gymkhana-Masstamilan.in.mp3",
+      "img":"https://i.ytimg.com/vi/6jqbpjxuA2A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC0AWKAgwIABABGHIgWig1MA8=&rs=AOn4CLDvuwlnf8CA_2d0Ub8pIrwtH2qwwA"
+    },{
+      "id": 57,
+      "title": "Why This Kolaveri Di",
+      "album": "3 moonu",
+      "artist":  "Anirudh Ravichander and Dhanush",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Why%20This%20Kolaveri%20Di%20(The%20Soup%20of%20Love)%20-%203%20128%20Kbps.mp3",
+      "img":"https://i1.sndcdn.com/artworks-jEAB9cHjy7RENSeC-tBXHrQ-t500x500.jpg"
+    },{
+      "id": 58,
+      "title": "Dheema",
+      "album": "Lik",
+      "artist":  "Anirudh Ravichander",
+      "audiourl": "https://github.com/nagasai2227/songs/raw/refs/heads/main/Dheema%20Love%20Insurance%20Kompany%20128%20Kbps.mp3",
+      "img":"https://c.saavncdn.com/651/Dheema-From-Love-Insurance-Kompany-Tamil-2024-20241015191442-500x500.jpg"
     }
+
+    
+    
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
